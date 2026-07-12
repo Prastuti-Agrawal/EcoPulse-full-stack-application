@@ -151,25 +151,20 @@ npm run dev
 - **Data Visualization**  
   Used **Recharts** to convert raw data into simple and meaningful graphs for Admin insights.
 
----
-
-## 👥 The Team
-
-- **Gaurav Patil**
-- **Abhishek Survase**  
-- **Suraj Desale**  
-- **Snehal Aakhud**  
-- **Vaishnavi Badgujar**  
-
----
 
 > "EcoPulse is more than just a project; it's a working solution designed to eliminate friction in municipal waste management. We didn't just build a UI; we built a system that works for the community."
 
----
+## 👩‍💻 Developer
+
+**Prastuti Agrawal**
+
+- Full Stack Developer
+- Java & MERN Stack Enthusiast
+- Built and customized the EcoPulse project
 
 <div align="center">
 
-**🌐 [Live Web App](https://ecopulsex.vercel.app/)** | **📁 [Source Code](https://github.com/gauravpatil-06/EcoPulse/)**
+**🌐 [Live Web App](https://ecopulsex.vercel.app/)** 
 
 ✨ **Report. Resolve. Reward. Making our cities cleaner and smarter.**
 
